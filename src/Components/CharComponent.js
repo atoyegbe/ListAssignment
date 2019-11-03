@@ -13,7 +13,6 @@ const Char = (props) => {
      style={style} 
      onClick={props.click}>
       {props.showChar} 
-      <hr></hr>
     </div>
 
     

@@ -40,7 +40,7 @@ class App extends Component {
           value={this.state.name}
           onChange={this.changeHandler}
         />
-        <p length={this.textLength}> {this.state.name} </p>
+        <p> {this.state.name} </p>
         <Validation text={this.state.name.length} />
 
         {showchar}

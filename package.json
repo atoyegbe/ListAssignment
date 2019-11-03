@@ -1,7 +1,7 @@
 {
-  "name": "list",
+  "name": "textlist",
   "version": "1.0.0",
-  "description": "",
+  "description": "Input a text and get the length of the text and you can also delete character independently by clicking on it",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
