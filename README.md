@@ -1,2 +1,0 @@
-# ListAssignment
-Created with CodeSandbox
